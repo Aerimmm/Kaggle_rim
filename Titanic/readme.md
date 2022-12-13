@@ -9,8 +9,6 @@
 Public score 0.77751
 
 <br><br>
-<br><br>
-
 
 ### 2. Essemble Modeling (Voting) 
 
